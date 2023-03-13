@@ -46,7 +46,6 @@ const App = () => {
   }} editor={editor} value={initialValue}>
     <Editable
         renderLeaf={renderLeaf}
-        }
     />
   </Slate>
 }
